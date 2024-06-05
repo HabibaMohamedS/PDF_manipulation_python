@@ -1,5 +1,5 @@
 # PDF manipulation GUI
-* this was a group project for PDF manipulation using **python** 
+* this was a group project (2021/2022) for PDF manipulation using **python** 
 * pdf manipulation using open source pure python library **PyPDF2**
 * GUI using **pygame**
 ## main functions
